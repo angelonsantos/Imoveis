@@ -3835,5 +3835,100 @@ E-mail: angelo.nsantos@gmail.com
         <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S2973/foto_13.jpg" caption="Foto 13 - S2973"/>
       </Media>
     </Listing>
+
+    <Listing>
+      <ListingID>S4263</ListingID>
+      <Title>Flat à venda – Carneiros, Tamandaré/PE | 34,35m² | Beach Way Carneiros</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PropertyType>Residential</PropertyType>
+      <PropertySubType>Flat</PropertySubType>
+
+      <Location>
+        <Country>BR</Country>
+        <State>PE</State>
+        <City>Tamandaré</City>
+        <Neighborhood>Carneiros</Neighborhood>
+        <Address>Rua Edite Vasconcelos Cruz</Address>
+        <AddressComplement>Und. 6</AddressComplement>
+        <PostalCode>55578-000</PostalCode>
+        <Latitude>-8.7758</Latitude>
+        <Longitude>-35.1107</Longitude>
+      </Location>
+
+      <Details>
+        <PropertyArea unit="square metres">34.35</PropertyArea>
+        <LivingArea unit="square metres">34.35</LivingArea>
+        <Bedrooms>1</Bedrooms>
+        <Suites>0</Suites>
+        <Bathrooms>1</Bathrooms>
+        <ParkingSpaces>1</ParkingSpaces>
+        <ParkingType>Rotativa Descoberta</ParkingType>
+        <YearBuilt>2020</YearBuilt>
+        <Floors>4</Floors>
+        <UnitsPerFloor>3</UnitsPerFloor>
+        <Orientation>Sul</Orientation>
+        <Financeable>true</Financeable>
+        <Furnished>false</Furnished>
+        <Occupied>false</Occupied>
+      </Details>
+
+      <Prices>
+        <SalePrice currency="BRL">350000.00</SalePrice>
+        <MonthlyCondoFee currency="BRL">600.00</MonthlyCondoFee>
+        <MonthlyPropertyTax currency="BRL">44.70</MonthlyPropertyTax>
+      </Prices>
+
+      <Description><![CDATA[
+Flat com excelente localização na Praia de Carneiros, com 34,35m² de área construída.
+
+O imóvel possui varanda gourmet, sala/quarto, banheiro, cozinha e uma vaga de estacionamento.
+
+O edifício Beach Way Carneiros dispõe de:
+• Piscina
+• Churrasqueira
+• Área de lazer
+• Portaria 24h
+
+Financiável. Agende sua visita!
+
+Corretor: Ângelo Santos – CRECI 21481
+WhatsApp: (81) 99503-5769
+E-mail: angelo.nsantos@gmail.com
+      ]]></Description>
+
+      <Features>
+        <Feature>Área de Lazer</Feature>
+        <Feature>Churrasqueira</Feature>
+        <Feature>Piscina</Feature>
+        <Feature>Portaria 24h</Feature>
+        <Feature>Varanda Gourmet</Feature>
+        <Feature>Posição Sul</Feature>
+      </Features>
+
+      <ContactInfo>
+        <n>Ângelo Santos</n>
+        <Email>angelo.nsantos@gmail.com</Email>
+        <AgentID>CRECI-21481</AgentID>
+      </ContactInfo>
+
+      <Media>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_01.jpg" caption="Foto 01 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_02.jpg" caption="Foto 02 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_03.jpg" caption="Foto 03 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_04.jpg" caption="Foto 04 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_05.jpg" caption="Foto 05 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_06.jpg" caption="Foto 06 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_07.jpg" caption="Foto 07 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_08.jpg" caption="Foto 08 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_09.jpg" caption="Foto 09 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_10.jpg" caption="Foto 10 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_11.jpg" caption="Foto 11 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_12.jpg" caption="Foto 12 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_13.jpg" caption="Foto 13 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_14.jpg" caption="Foto 14 - S4263"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S4263/foto_15.jpg" caption="Foto 15 - S4263"/>
+      </Media>
+
+    </Listing>
   </Listings>
 </ListingDataFeed>
