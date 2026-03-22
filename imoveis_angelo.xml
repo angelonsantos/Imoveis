@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <PublisherName>Ângelo Santos</PublisherName>
+    <ContactEmail>angelo.nsantos@gmail.com</ContactEmail>
+    <ContactWhatsApp>+5581995035769</ContactWhatsApp>
+    <ContactInstagram>@angelo.nsantos</ContactInstagram>
+    <ContactPhone>+5581995035769</ContactPhone>
+  </Header>
+  <Listings>
+    <Listing>
+      <ListingID>S5067</ListingID>
+      <Title>Apartamento 2 quartos à venda – Torre, Recife/PE | 51,88m² | Morada da Torre Helena Cunha</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PropertyType>Residential</PropertyType>
+      <PropertySubType>Apartment</PropertySubType>
+
+      <Location>
+        <Country>BR</Country>
+        <State>PE</State>
+        <City>Recife</City>
+        <Neighborhood>Torre</Neighborhood>
+        <Address>Rua Benjamin Constant, 159</Address>
+        <AddressComplement>Und. 203, Blc. 1</AddressComplement>
+        <PostalCode>50710-150</PostalCode>
+        <Latitude>-8.0522</Latitude>
+        <Longitude>-34.9044</Longitude>
+      </Location>
+
+      <Details>
+        <PropertyArea unit="square metres">51.88</PropertyArea>
+        <LivingArea unit="square metres">51.88</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Suites>1</Suites>
+        <Bathrooms>1</Bathrooms>
+        <ParkingSpaces>1</ParkingSpaces>
+        <ParkingType>Privativa Descoberta</ParkingType>
+        <YearBuilt>2022</YearBuilt>
+        <Floors>19</Floors>
+        <UnitsPerFloor>3</UnitsPerFloor>
+        <Orientation>Leste</Orientation>
+        <Financeable>true</Financeable>
+        <Furnished>false</Furnished>
+        <Occupied>false</Occupied>
+      </Details>
+
+      <Prices>
+        <SalePrice currency="BRL">460000.00</SalePrice>
+        <MonthlyCondoFee currency="BRL">800.00</MonthlyCondoFee>
+        <MonthlyPropertyTax currency="BRL">242.68</MonthlyPropertyTax>
+      </Prices>
+
+      <Description><![CDATA[
+Excelente apartamento à venda no bairro da Torre – 51,88m²
+
+Localizado em uma região estratégica, próximo às principais vias de acesso, faculdades, restaurantes, shopping, academias e supermercados, oferecendo mais praticidade e qualidade de vida para sua família.
+
+O imóvel dispõe de:
+• Sala para dois ambientes
+• 2 quartos, sendo 1 suíte
+• 1 banheiro social
+• Cozinha
+• Área de serviço
+• 1 vaga de garagem privativa (descoberta nº 52)
+
+O empreendimento Morada da Torre Helena Cunha oferece:
+• Academia
+• Piscina
+• Salão de festas
+• Brinquedoteca
+• Gerador elétrico
+• Gás encanado
+• Portão eletrônico
+• Portaria 24h
+
+Pronto para morar. Financiável. Agende sua visita!
+
+Corretor: Ângelo Santos – CRECI 21481
+WhatsApp: (81) 99503-5769
+Instagram: @angelo.nsantos
+E-mail: angelo.nsantos@gmail.com
+      ]]></Description>
+
+      <Features>
+        <Feature>Academia</Feature>
+        <Feature>Piscina</Feature>
+        <Feature>Salão de Festas</Feature>
+        <Feature>Brinquedoteca</Feature>
+        <Feature>Gerador Elétrico</Feature>
+        <Feature>Gás Encanado</Feature>
+        <Feature>Portão Eletrônico</Feature>
+        <Feature>Portaria 24h</Feature>
+        <Feature>Área de Serviço</Feature>
+        <Feature>Cozinha</Feature>
+        <Feature>Sala de Estar</Feature>
+        <Feature>Sala de Jantar</Feature>
+        <Feature>Vaga Privativa</Feature>
+      </Features>
+
+      <ContactInfo>
+        <Name>Ângelo Santos</Name>
+        <Email>angelo.nsantos@gmail.com</Email>
+        <AgentID>CRECI-21481</AgentID>
+      </ContactInfo>
+
+
+      <Media>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_01.jpg" caption="Foto 01 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_02.jpg" caption="Foto 02 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_03.jpg" caption="Foto 03 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_04.jpg" caption="Foto 04 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_05.jpg" caption="Foto 05 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_06.jpg" caption="Foto 06 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_07.jpg" caption="Foto 07 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_08.jpg" caption="Foto 08 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_09.jpg" caption="Foto 09 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_10.jpg" caption="Foto 10 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_11.jpg" caption="Foto 11 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_12.jpg" caption="Foto 12 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_13.jpg" caption="Foto 13 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_14.jpg" caption="Foto 14 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_15.jpg" caption="Foto 15 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_16.jpg" caption="Foto 16 - Apartamento S5067"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S5067/foto_17.jpg" caption="Foto 17 - Apartamento S5067"/>
+      </Media>
+
+    </Listing>
+
+    <Listing>
+      <ListingID>S823</ListingID>
+      <Title>Apartamento 3 quartos à venda – Torre, Recife/PE | 74,06m² | Itamaracá Colonial</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PropertyType>Residential</PropertyType>
+      <PropertySubType>Apartment</PropertySubType>
+
+      <Location>
+        <Country>BR</Country>
+        <State>PE</State>
+        <City>Recife</City>
+        <Neighborhood>Torre</Neighborhood>
+        <Address>Rua Vitoriano Palhares, 194</Address>
+        <AddressComplement>Und. 701</AddressComplement>
+        <PostalCode>50710-190</PostalCode>
+      </Location>
+
+      <Details>
+        <PropertyArea unit="square metres">74.06</PropertyArea>
+        <LivingArea unit="square metres">74.06</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Suites>1</Suites>
+        <Bathrooms>2</Bathrooms>
+        <ParkingSpaces>1</ParkingSpaces>
+        <ParkingType>Privativa Coberta</ParkingType>
+        <YearBuilt>2004</YearBuilt>
+        <Floors>12</Floors>
+        <UnitsPerFloor>4</UnitsPerFloor>
+        <Financeable>true</Financeable>
+        <Furnished>false</Furnished>
+        <Occupied>true</Occupied>
+      </Details>
+
+      <Prices>
+        <SalePrice currency="BRL">490000.00</SalePrice>
+        <MonthlyCondoFee currency="BRL">990.00</MonthlyCondoFee>
+        <MonthlyPropertyTax currency="BRL">166.46</MonthlyPropertyTax>
+      </Prices>
+
+      <Description><![CDATA[
+Apartamento com excelente localização no bairro da Torre – 74,06m²
+
+O imóvel possui varanda, sala para dois ambientes, três quartos sendo um suíte, banheiro social, cozinha, área de serviço, banheiro de serviço e uma vaga de garagem coberta.
+
+Itens do imóvel:
+• Varanda
+• Armários embutidos
+• Armário na cozinha e no banheiro
+• Box Blindex
+• Móvel planejado
+
+O condomínio Itamaracá Colonial oferece:
+• Portaria 24h
+• Bicicletário
+• Gás encanado
+• Gerador elétrico
+• Portão eletrônico
+• Espaço fitness
+• Quadra poliesportiva
+• Salão de festas
+
+Financiável. Agende sua visita!
+
+Corretor: Ângelo Santos – CRECI 21481
+WhatsApp: (81) 99503-5769
+Instagram: @angelo.nsantos
+E-mail: angelo.nsantos@gmail.com
+      ]]></Description>
+
+      <Features>
+        <Feature>Academia</Feature>
+        <Feature>Bicicletário</Feature>
+        <Feature>Elevador</Feature>
+        <Feature>Gerador Elétrico</Feature>
+        <Feature>Salão de Festas</Feature>
+        <Feature>Quadra Poliesportiva</Feature>
+        <Feature>Gás Encanado</Feature>
+        <Feature>Portão Eletrônico</Feature>
+        <Feature>Portaria 24h</Feature>
+        <Feature>Varanda</Feature>
+        <Feature>Armário Embutido</Feature>
+        <Feature>Box Blindex</Feature>
+        <Feature>Vaga Coberta</Feature>
+      </Features>
+
+      <ContactInfo>
+        <n>Ângelo Santos</n>
+        <Email>angelo.nsantos@gmail.com</Email>
+        <Phone>+5581995035769</Phone>
+        <WhatsApp>+5581995035769</WhatsApp>
+        <Instagram>@angelo.nsantos</Instagram>
+        <AgentID>CRECI-21481</AgentID>
+      </ContactInfo>
+      
+      <Media>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_01.jpg" caption="Foto 01 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_02.jpg" caption="Foto 02 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_03.jpg" caption="Foto 03 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_04.jpg" caption="Foto 04 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_05.jpg" caption="Foto 05 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_06.jpg" caption="Foto 06 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_07.jpg" caption="Foto 07 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_08.jpg" caption="Foto 08 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_09.jpg" caption="Foto 09 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_10.jpg" caption="Foto 10 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_11.jpg" caption="Foto 11 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_12.jpg" caption="Foto 12 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_13.jpg" caption="Foto 13 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_14.jpg" caption="Foto 14 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_15.jpg" caption="Foto 15 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_16.jpg" caption="Foto 16 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_17.jpg" caption="Foto 17 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_18.jpg" caption="Foto 18 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_19.jpg" caption="Foto 19 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_20.jpg" caption="Foto 20 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_21.jpg" caption="Foto 21 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_22.jpg" caption="Foto 22 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_23.jpg" caption="Foto 23 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_24.jpg" caption="Foto 24 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_25.jpg" caption="Foto 25 - Apartamento S823"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S823/foto_26.jpg" caption="Foto 26 - Apartamento S823"/>
+      </Media>
+
+    </Listing>
+    <Listing>
+      <ListingID>S3025</ListingID>
+      <Title>Apartamento 3 quartos à venda – Torre, Recife/PE | 76,49m² | Botanik Torre | 2 vagas</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PropertyType>Residential</PropertyType>
+      <PropertySubType>Apartment</PropertySubType>
+
+      <Location>
+        <Country>BR</Country>
+        <State>PE</State>
+        <City>Recife</City>
+        <Neighborhood>Torre</Neighborhood>
+        <Address>Rua Real da Torre, 1130</Address>
+        <AddressComplement>Und. 1002, Blc. Torre Flora</AddressComplement>
+        <PostalCode>50710-025</PostalCode>
+        <Orientation>Leste</Orientation>
+      </Location>
+
+      <Details>
+        <PropertyArea unit="square metres">76.49</PropertyArea>
+        <LivingArea unit="square metres">76.49</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Suites>1</Suites>
+        <Bathrooms>2</Bathrooms>
+        <ParkingSpaces>2</ParkingSpaces>
+        <ParkingType>Privativa</ParkingType>
+        <YearBuilt>2026</YearBuilt>
+        <Floors>28</Floors>
+        <UnitsPerFloor>3</UnitsPerFloor>
+        <Financeable>false</Financeable>
+        <Furnished>false</Furnished>
+        <Occupied>false</Occupied>
+      </Details>
+
+      <Prices>
+        <SalePrice currency="BRL">800000.00</SalePrice>
+      </Prices>
+
+      <Description><![CDATA[
+Excelente repasse em construção – 76,49m² | Botanik Torre | Bairro da Torre, Recife
+
+O imóvel possui varanda, sala para dois ambientes, três quartos sendo um suíte, banheiro social, cozinha, depósito, banheiro de serviço, área de serviço e duas vagas de garagem privativas.
+
+O condomínio Botanik Torre oferece:
+• Espaço gourmet
+• Academia
+• Piscina
+• Pet place
+• Coworking
+• Bicicletário
+• Playground
+• Portão eletrônico
+• Portaria 24h
+
+Pet-friendly. Duas torres. 28 andares. Agende sua visita!
+
+Corretor: Ângelo Santos – CRECI 21481
+WhatsApp: (81) 99503-5769
+Instagram: @angelo.nsantos
+E-mail: angelo.nsantos@gmail.com
+      ]]></Description>
+
+      <Features>
+        <Feature>Academia</Feature>
+        <Feature>Área de Lazer</Feature>
+        <Feature>Bicicletário</Feature>
+        <Feature>Churrasqueira</Feature>
+        <Feature>Elevador</Feature>
+        <Feature>Espaço Gourmet</Feature>
+        <Feature>Piscina</Feature>
+        <Feature>Playground</Feature>
+        <Feature>Pet-friendly</Feature>
+        <Feature>Coworking</Feature>
+        <Feature>Portão Eletrônico</Feature>
+        <Feature>Portaria 24h</Feature>
+        <Feature>Varanda</Feature>
+        <Feature>2 Vagas Privativas</Feature>
+        <Feature>Depósito</Feature>
+      </Features>
+
+      <ContactInfo>
+        <n>Ângelo Santos</n>
+        <Email>angelo.nsantos@gmail.com</Email>
+        <Phone>+5581995035769</Phone>
+        <WhatsApp>+5581995035769</WhatsApp>
+        <Instagram>@angelo.nsantos</Instagram>
+        <AgentID>CRECI-21481</AgentID>
+      </ContactInfo>
+      
+      <Media>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_01.jpg" caption="Foto 01 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_02.jpg" caption="Foto 02 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_03.jpg" caption="Foto 03 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_04.jpg" caption="Foto 04 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_05.jpg" caption="Foto 05 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_06.jpg" caption="Foto 06 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_07.jpg" caption="Foto 07 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_08.jpg" caption="Foto 08 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_09.jpg" caption="Foto 09 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_10.jpg" caption="Foto 10 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_11.jpg" caption="Foto 11 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_12.jpg" caption="Foto 12 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_13.jpg" caption="Foto 13 - Apartamento S3025"/>
+        <Item medium="image" url="https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3025/foto_14.jpg" caption="Foto 14 - Apartamento S3025"/>
+      </Media>
+
+    </Listing>
+  </Listings>
+</ListingDataFeed>
