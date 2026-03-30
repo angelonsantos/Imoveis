@@ -929,6 +929,97 @@ Financiável. Apartamento nascente. Agende sua visita!]]></Description>
       </ContactInfo>
     </Listing>
     <Listing>
+      <ListingID>S3687</ListingID>
+      <Title><![CDATA[Flat mobiliado à venda – Tamandaré/PE | 32,89m² | Rooftop Orla Tamandaré]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PE">Pernambuco</State>
+        <City><![CDATA[Tamandaré]]></City>
+        <Neighborhood><![CDATA[Tamandaré]]></Neighborhood>
+        <Address><![CDATA[Rua Sergipe]]></Address>
+        <StreetNumber>157</StreetNumber>
+        <Complement><![CDATA[Und. 307]]></Complement>
+        <PostalCode>55578-000</PostalCode>
+        <Latitude>-8.7597</Latitude>
+        <Longitude>-35.1050</Longitude>
+      </Location>
+      <Media>
+        <Item medium="image" caption="Foto 01 - S3687" primary="true">https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3687/foto_01.jpg</Item>
+        <Item medium="image" caption="Foto 02 - S3687">https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3687/foto_02.jpg</Item>
+        <Item medium="image" caption="Foto 03 - S3687">https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3687/foto_03.jpg</Item>
+        <Item medium="image" caption="Foto 04 - S3687">https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3687/foto_04.jpg</Item>
+        <Item medium="image" caption="Foto 05 - S3687">https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3687/foto_05.jpg</Item>
+        <Item medium="image" caption="Foto 06 - S3687">https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3687/foto_06.jpg</Item>
+        <Item medium="image" caption="Foto 07 - S3687">https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3687/foto_07.jpg</Item>
+        <Item medium="image" caption="Foto 08 - S3687">https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3687/foto_08.jpg</Item>
+        <Item medium="image" caption="Foto 09 - S3687">https://raw.githubusercontent.com/angelonsantos/imoveis/main/fotos/S3687/foto_09.jpg</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Flat</PropertyType>
+        <UsageType>Residential</UsageType>
+        <LivingArea unit="square metres">32</LivingArea>
+        <ListPrice currency="BRL">330000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">350</PropertyAdministrationFee>
+        <Iptu currency="BRL" period="Monthly">65</Iptu>
+        <Bedrooms>1</Bedrooms>
+        <Suites>0</Suites>
+        <Bathrooms>1</Bathrooms>
+        <Garage>1</Garage>
+        <Floors>4</Floors>
+        <UnitFloor>3</UnitFloor>
+        <Buildings>1</Buildings>
+        <YearBuilt>2024</YearBuilt>
+        <Description><![CDATA[Excelente flat mobiliado localizado na praia de Tamandaré, com 32,89m² de área útil. &lt;br&gt;&lt;br&gt;
+O imóvel possui: &lt;br&gt;
+&bull; Varanda gourmet &lt;br&gt;
+&bull; Sala para 02 ambientes &lt;br&gt;
+&bull; 1 quarto &lt;br&gt;
+&bull; Banheiro &lt;br&gt;
+&bull; Cozinha &lt;br&gt;
+&bull; 1 vaga de garagem (rotativa) &lt;br&gt;
+&lt;br&gt;
+O edifício Rooftop Orla Tamandaré dispõe de: &lt;br&gt;
+&bull; Churrasqueira &lt;br&gt;
+&bull; Espaço gourmet &lt;br&gt;
+&bull; Piscina com borda infinita &lt;br&gt;
+&bull; Piscina infantil &lt;br&gt;
+&bull; Deck molhado &lt;br&gt;
+&bull; Solarium &lt;br&gt;
+&bull; Fechadura eletrônica &lt;br&gt;
+&bull; Elevador panorâmico &lt;br&gt;
+&bull; Câmeras de segurança &lt;br&gt;
+&bull; Gás encanado &lt;br&gt;
+&bull; Portaria 24h &lt;br&gt;
+&lt;br&gt;
+Pronto para morar. Mobiliado. Financiável. Agende sua visita!]]></Description>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gourmet Balcony</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Childrens Pool</Feature>
+          <Feature>Solarium</Feature>
+          <Feature>Deck</Feature>
+          <Feature>Digital Locker</Feature>
+          <Feature>Elevator</Feature>
+          <Feature>TV Security</Feature>
+          <Feature>Utilities</Feature>
+          <Feature>Concierge 24h</Feature>
+          <Feature>Furnished</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Kitchen</Feature>
+          <Feature>Parking Garage</Feature>
+        </Features>
+      </Details>
+      <ContactInfo>
+        <n><![CDATA[Ângelo Santos]]></n>
+        <Email>angelo.nsantos@gmail.com</Email>
+        <Telephone>+5581995035769</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
       <ListingID>S3601</ListingID>
       <Title><![CDATA[Apartamento 2 quartos à venda – Várzea, Recife/PE | 55,79m² | Reserva do Polidoro]]></Title>
       <TransactionType>For Sale</TransactionType>
