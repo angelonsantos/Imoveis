@@ -2850,7 +2850,7 @@ Beira mar. Mobiliado. Financiável. Agende sua visita!
           <Feature>Concierge 24h</Feature>
           <Feature>Sports Court</Feature>
           <Feature>Tennis court</Feature>
-          <Feature>Quadra de Futebol</Feature>
+          <Feature>Football Field</Feature>
           <Feature>Furnished</Feature>
         </Features>
       </Details>
@@ -3874,7 +3874,7 @@ Financiável. Agende sua visita!
           <Feature>Pool</Feature>
           <Feature>Childrens Pool</Feature>
           <Feature>Playground</Feature>
-          <Feature>Restaurante</Feature>
+          <Feature>Restaurant</Feature>
           <Feature>Jogging track</Feature>
           <Feature>Pet Space</Feature>
           <Feature>Tennis court</Feature>
@@ -6006,10 +6006,10 @@ Localização e Infraestrutura:
 Empreendimento lançado em 2027, com 2 torres e 17 andares. Pronto para morar. Agende sua visita!</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
-          <Feature>Games Room</Feature>
+          <Feature>Game room</Feature>
           <Feature>Security Camera</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
@@ -6100,11 +6100,11 @@ Não perca a chance de morar com exclusividade e conforto! Agende sua visita!</D
         <Features>
           <Feature>Gym</Feature>
           <Feature>Bicycles Place</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Heated Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Barbecue Grill</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Generator</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
@@ -6193,10 +6193,10 @@ Empreendimento com 30 andares, 3 apartamentos por andar e 1 torre. Lançado em 2
         <Features>
           <Feature>Gym</Feature>
           <Feature>Bicycles Place</Feature>
-          <Feature>Kids Space</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Toys Place</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Generator</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
@@ -6290,11 +6290,11 @@ Não perca a chance de morar com exclusividade e conforto! Agende sua visita!</D
         <Features>
           <Feature>Gym</Feature>
           <Feature>Bicycles Place</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Heated Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Barbecue Grill</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Generator</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
@@ -6385,10 +6385,10 @@ Empreendimento com 30 andares, 3 apartamentos por andar e 1 torre. Lançado em 2
         <Features>
           <Feature>Gym</Feature>
           <Feature>Bicycles Place</Feature>
-          <Feature>Kids Space</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Toys Place</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Generator</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
@@ -6482,11 +6482,11 @@ Itens do imóvel:
 Financiável. Agende sua visita!</Description>
         <Features>
           <Feature>Elevator</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
           <Feature>Concierge 24h</Feature>
-          <Feature>Air Conditioning</Feature>
+          <Feature>Cooling</Feature>
           <Feature>Balcony</Feature>
           <Feature>Parking Garage</Feature>
           <Feature>Builtin Wardrobe</Feature>
@@ -6579,7 +6579,7 @@ Financiável. Agende sua visita!</Description>
           <Feature>Gym</Feature>
           <Feature>Bicycles Place</Feature>
           <Feature>Elevator</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
           <Feature>Generator</Feature>
@@ -6669,10 +6669,10 @@ Empreendimento com 30 andares, 3 apartamentos por andar e 1 torre. Lançado em 2
         <Features>
           <Feature>Gym</Feature>
           <Feature>Bicycles Place</Feature>
-          <Feature>Kids Space</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Toys Place</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Generator</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
@@ -6766,11 +6766,11 @@ Itens do imóvel:
 Financiável. Agende sua visita e conheça este excelente apartamento em Boa Viagem!</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Barbecue Grill</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
-          <Feature>Games Room</Feature>
+          <Feature>Game room</Feature>
           <Feature>Generator</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
@@ -6861,7 +6861,7 @@ Itens do imóvel:
 
 Excelente localização no bairro de Boa Viagem. Financiável. Agende agora sua visita!</Description>
         <Features>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Barbecue Grill</Feature>
           <Feature>Party Room</Feature>
           <Feature>Generator</Feature>
@@ -6953,7 +6953,7 @@ Itens do imóvel:
 Financiável. Agende sua visita!</Description>
         <Features>
           <Feature>Elevator</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Party Room</Feature>
           <Feature>Generator</Feature>
           <Feature>Electronic Gate</Feature>
@@ -7227,7 +7227,7 @@ Financiável. Agende sua visita!
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
           <Feature>Barbecue Grill</Feature>
@@ -7321,7 +7321,7 @@ Financiável. Agende agora sua visita!
         <Features>
           <Feature>Bicycles Place</Feature>
           <Feature>Elevator</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
           <Feature>Generator</Feature>
@@ -7418,10 +7418,10 @@ Financiável. Agende sua visita e venha conhecer seu novo lar em Boa Viagem!
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Bicycles Place</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
-          <Feature>Games Room</Feature>
+          <Feature>Game room</Feature>
           <Feature>Sports Court</Feature>
           <Feature>Generator</Feature>
           <Feature>Electronic Gate</Feature>
@@ -7517,9 +7517,9 @@ Financiável. Agende sua visita!
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Barbecue Grill</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
           <Feature>Concierge 24h</Feature>
@@ -7610,10 +7610,10 @@ Financiável. Agende agora sua visita!
         <Features>
           <Feature>Gym</Feature>
           <Feature>Barbecue Grill</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
-          <Feature>Games Room</Feature>
+          <Feature>Game room</Feature>
           <Feature>Generator</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
@@ -7708,7 +7708,7 @@ Financiável. Agende já sua visita!
 
 Ângelo Santos, Creci 21481</Description>
         <Features>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Party Room</Feature>
           <Feature>Utilities</Feature>
           <Feature>Electronic Gate</Feature>
@@ -7802,9 +7802,9 @@ Financiável. Agende hoje mesmo sua visita!
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Barbecue Grill</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Party Room</Feature>
           <Feature>Toys Place</Feature>
           <Feature>Generator</Feature>
@@ -7897,7 +7897,7 @@ Financiável. Agende sua visita!!
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Party Room</Feature>
           <Feature>Utilities</Feature>
           <Feature>Electronic Gate</Feature>
@@ -7994,10 +7994,10 @@ Financiável. Agende sua visita e conheça este excelente apartamento em Boa Via
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Party Room</Feature>
           <Feature>Toys Place</Feature>
-          <Feature>Games Room</Feature>
+          <Feature>Game room</Feature>
           <Feature>Sauna</Feature>
           <Feature>Generator</Feature>
           <Feature>Utilities</Feature>
@@ -8091,7 +8091,7 @@ Financiável. Agende sua visita!!
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Party Room</Feature>
           <Feature>Utilities</Feature>
           <Feature>Electronic Gate</Feature>
@@ -8187,8 +8187,8 @@ Financiável. Agende já sua visita e venha conhecer seu novo lar em Boa Viagem!
         <Features>
           <Feature>Gym</Feature>
           <Feature>Coworking</Feature>
-          <Feature>Gourmet Space</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
           <Feature>Generator</Feature>
@@ -8277,7 +8277,7 @@ Financiável. Agende sua visita!
 
 Ângelo Santos, Creci 21481</Description>
         <Features>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
           <Feature>Utilities</Feature>
@@ -8371,11 +8371,11 @@ Financiável. Agende sua visita!
 
 Ângelo Santos, Creci 21481</Description>
         <Features>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Sauna</Feature>
           <Feature>Barbecue Grill</Feature>
           <Feature>Party Room</Feature>
-          <Feature>Bicycle Storage</Feature>
+          <Feature>Bicycles Place</Feature>
           <Feature>Generator</Feature>
           <Feature>Utilities</Feature>
           <Feature>Electronic Gate</Feature>
@@ -8564,7 +8564,7 @@ Financiável. Agende já sua visita!
 
 Ângelo Santos, Creci 21481</Description>
         <Features>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Sauna</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
@@ -8659,11 +8659,11 @@ Financiável. Agende sua visita!
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
-          <Feature>Games Room</Feature>
-          <Feature>Bicycle Storage</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Bicycles Place</Feature>
           <Feature>Security Camera</Feature>
           <Feature>Concierge 24h</Feature>
           <Feature>Parking Garage</Feature>
@@ -8756,7 +8756,7 @@ Financiável. Agende agora sua visita!
 
 Ângelo Santos, Creci 21481</Description>
         <Features>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Barbecue Grill</Feature>
           <Feature>Party Room</Feature>
           <Feature>Generator</Feature>
@@ -8862,10 +8862,10 @@ Angelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
           <Feature>Barbecue Grill</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
-          <Feature>Games Room</Feature>
+          <Feature>Game room</Feature>
           <Feature>Bicycles Place</Feature>
           <Feature>Sports Court</Feature>
           <Feature>Electronic Gate</Feature>
@@ -8969,7 +8969,7 @@ Financiavel. Agende sua visita!
 Angelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Barbecue Grill</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
           <Feature>Generator</Feature>
@@ -9066,7 +9066,7 @@ Financiavel. Agende agora sua visita!
 
 Angelo Santos, Creci 21481</Description>
         <Features>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Playground</Feature>
           <Feature>Party Room</Feature>
           <Feature>Gym</Feature>
@@ -9164,7 +9164,7 @@ Financiavel. Agende agora sua visita!
 Angelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Party Room</Feature>
           <Feature>Sauna</Feature>
           <Feature>Generator</Feature>
@@ -9259,7 +9259,7 @@ Financiavel. Agende ja sua visita!
 Angelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Gym</Feature>
-          <Feature>Swimming Pool</Feature>
+          <Feature>Pool</Feature>
           <Feature>Party Room</Feature>
           <Feature>Sauna</Feature>
           <Feature>Utilities</Feature>
@@ -9448,7 +9448,7 @@ Conectar pessoas aos melhores imóveis com inteligência, confiança e excelênc
           <Feature>Utilities</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
-          <Feature>Security 24h</Feature>
+          <Feature>Security Guard on Duty</Feature>
           <Feature>Kitchen</Feature>
           <Feature>Parking Garage</Feature>
         </Features>
@@ -9527,7 +9527,7 @@ Conectar pessoas aos melhores imóveis com inteligência, confiança e excelênc
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Pool</Feature>
-          <Feature>Kids Pool</Feature>
+          <Feature>Childrens Pool</Feature>
           <Feature>Party Room</Feature>
           <Feature>Generator</Feature>
           <Feature>Utilities</Feature>
@@ -9619,9 +9619,9 @@ Conectar pessoas aos melhores imóveis com inteligência, confiança e excelênc
         <Features>
           <Feature>Gym</Feature>
           <Feature>Pool</Feature>
-          <Feature>Kids Pool</Feature>
+          <Feature>Childrens Pool</Feature>
           <Feature>Sauna</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Generator</Feature>
           <Feature>Security Camera</Feature>
           <Feature>Utilities</Feature>
@@ -9706,9 +9706,9 @@ Conectar pessoas aos melhores imóveis com inteligência, confiança e excelênc
 Ângelo Santos, Creci 21481</Description>
         <Features>
           <Feature>Pool</Feature>
-          <Feature>Kids Pool</Feature>
+          <Feature>Childrens Pool</Feature>
           <Feature>Party Room</Feature>
-          <Feature>Gourmet Space</Feature>
+          <Feature>Gourmet Area</Feature>
           <Feature>Toys Place</Feature>
           <Feature>Electronic Gate</Feature>
           <Feature>Concierge 24h</Feature>
