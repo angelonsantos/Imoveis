@@ -6,7 +6,7 @@
       <CodigoImovel>S5067</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Torre]]></Bairro>
       <Endereco>Rua Benjamin Constant</Endereco>
@@ -259,7 +259,7 @@ Pronto para morar. Financiável. Agende sua visita!
       <CodigoImovel>S823</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Torre]]></Bairro>
       <Endereco>Rua Vitoriano Palhares</Endereco>
@@ -509,7 +509,7 @@ Financiável. Agende sua visita!
       <CodigoImovel>S3025</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Torre]]></Bairro>
       <Endereco>Rua Real da Torre</Endereco>
@@ -757,7 +757,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S364</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Madalena]]></Bairro>
       <Endereco>Rua Real da Torre</Endereco>
@@ -1000,7 +1000,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S4403</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Torre]]></Bairro>
       <Endereco>Rua José Bonifácio</Endereco>
@@ -1241,7 +1241,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S3993</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Casa Amarela]]></Bairro>
       <Endereco>Rua Estrela</Endereco>
@@ -1482,7 +1482,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S3504</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Madalena]]></Bairro>
       <Endereco>Avenida Beira Rio Governador Eduardo Campos</Endereco>
@@ -1725,7 +1725,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S3755</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Torre]]></Bairro>
       <Endereco>Rua Real da Torre</Endereco>
@@ -1967,7 +1967,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S1988</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Madalena]]></Bairro>
       <Endereco>Avenida Beira Rio Governador Eduardo Campos</Endereco>
@@ -2210,7 +2210,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S3687</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Centro]]></Bairro>
       <Endereco>Rua Sergipe</Endereco>
@@ -2463,7 +2463,7 @@ Pronto para morar. Mobiliado. Financiável. Agende sua visita!
       <CodigoImovel>S3081</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Caxangá]]></Bairro>
       <Endereco>Rua Maestro Fernando Borges</Endereco>
@@ -2704,7 +2704,7 @@ Financiável. Agende sua visita!
       <CodigoImovel>S536</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Madalena]]></Bairro>
       <Endereco>Rua Doutor Berardo</Endereco>
@@ -2944,7 +2944,7 @@ Financiável. Próximo a escolas e hospitais. Agende sua visita!
       <CodigoImovel>S599</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Caxangá]]></Bairro>
       <Endereco>Rua Engenho Poeta</Endereco>
@@ -3187,7 +3187,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S4945</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Casa Amarela]]></Bairro>
       <Endereco>Rua Arnoldo Magalhães</Endereco>
@@ -3432,7 +3432,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S4710</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Madalena]]></Bairro>
       <Endereco>Rua Doutor Berardo</Endereco>
@@ -3686,7 +3686,7 @@ Pronto para morar. Financiável. Agende sua visita!
       <CodigoImovel>S790</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Casa Amarela]]></Bairro>
       <Endereco>Rua Conselheiro Nabuco</Endereco>
@@ -3941,7 +3941,7 @@ Financiável. Agende sua visita!
       <CodigoImovel>S4275</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Centro]]></Bairro>
       <Endereco>Rua João Cabral de Melo Neto, Campas</Endereco>
@@ -4190,7 +4190,7 @@ Financiável. Agende sua visita e viva o melhor de Tamandaré!
       <CodigoImovel>S4264</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Carneiros]]></Bairro>
       <Endereco>Rua Quinze de Agosto</Endereco>
@@ -4440,7 +4440,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S4342</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Praia dos Carneiros]]></Bairro>
       <Endereco>Via Litorânea</Endereco>
@@ -4688,7 +4688,7 @@ Beira mar. Mobiliado. Financiável. Agende sua visita!
       <CodigoImovel>S3165</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Centro]]></Bairro>
       <Endereco>Rua João Cabral de Melo Neto, Campas</Endereco>
@@ -4936,7 +4936,7 @@ Agende sua visita e viva o melhor de Tamandaré!
       <CodigoImovel>S1923</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Carneiros]]></Bairro>
       <Endereco>Rota dos Carneiros</Endereco>
@@ -5186,7 +5186,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S1929</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Carneiros]]></Bairro>
       <Endereco>Rua s/n</Endereco>
@@ -5433,7 +5433,7 @@ Agende já sua visita!
       <CodigoImovel>S3062</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Carneiros]]></Bairro>
       <Endereco>Estrada Praia dos Carneiros</Endereco>
@@ -5683,7 +5683,7 @@ Agende sua visita!
       <CodigoImovel>S1515</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Sítio São Benedito]]></Bairro>
       <Endereco>Rodovia PE-072</Endereco>
@@ -5933,7 +5933,7 @@ Mobiliado. Agende sua visita!
       <CodigoImovel>S2614</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Carneiros]]></Bairro>
       <Endereco>Loteamento Privê São José dos Manguinhos</Endereco>
@@ -6184,7 +6184,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S3047</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Carneiros]]></Bairro>
       <Endereco>Via Litorânea</Endereco>
@@ -6421,7 +6421,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S1562</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Campas]]></Bairro>
       <Endereco>Tv. Nona da Rua 8</Endereco>
@@ -6667,7 +6667,7 @@ Mobiliado. Beira-mar. Financiável. Agende sua visita!
       <CodigoImovel>S4186</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Praia dos Carneiros]]></Bairro>
       <Endereco>Avenida Beira Mar</Endereco>
@@ -6918,7 +6918,7 @@ Financiável. Agende sua visita!
       <CodigoImovel>S2973</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Carneiros]]></Bairro>
       <Endereco>Rua da PE</Endereco>
@@ -7171,7 +7171,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S4263</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Flat</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Flat</CategoriaImovel>
       <Cidade><![CDATA[Tamandaré]]></Cidade>
       <Bairro><![CDATA[Carneiros]]></Bairro>
       <Endereco>Rua Edite Vasconcelos Cruz</Endereco>
@@ -7416,7 +7416,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S591</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Casa Forte]]></Bairro>
       <Endereco>Rua Dona Rita de Souza</Endereco>
@@ -7649,7 +7649,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S1802</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Torre]]></Bairro>
       <Endereco>Rua Professora Ângela Pinto</Endereco>
@@ -7882,7 +7882,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S3455</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Torre]]></Bairro>
       <Endereco>Rua Laura Campelo</Endereco>
@@ -8115,7 +8115,7 @@ Atuamos em parceria com as maiores construtoras do país e oferecemos experiênc
       <CodigoImovel>S3454</CodigoImovel>
       <TipoImovel>Apartamento</TipoImovel>
       <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
-      <CategoriaImovel></CategoriaImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
       <Cidade><![CDATA[Recife]]></Cidade>
       <Bairro><![CDATA[Madalena]]></Bairro>
       <Endereco>Rua Manoel Bernardes</Endereco>
